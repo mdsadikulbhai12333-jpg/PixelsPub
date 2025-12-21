@@ -1,6 +1,6 @@
 [English](../../README.md) | [Español](../es/README.md)
 | [Português](../pt/README.md) | [Bahasa Indonesia](../in/README.md)
-| [Русский](../ru/README.md) | [中文 (简体)](../zh-rCN/README.md)
+| [Русский](../ru/README.md) | [中文 (简体)](../zh-rCN/README.md) | [中文 (繁體)](../zh-rTW/README.md)
 | [日本語](../ja-rJP/README.md) | [Tiếng Việt](../vi/README.md)
 | <u>[Türkçe](README.md)</u>
 | [हिन्दी](../hi/README.md) | [বাংলা (ভারত)](../bn-rIN/README.md) | [ਪੰਜਾਬੀ (ਭਾਰਤ)](../pa-rIN/README.md) | [తెలుగు](../te-rIN/README.md) | [اردو (پاکستان)](../ur-rPK/README.md) | [العربية](../ar/README.md) | [ไทย](../th/README.md)

@@ -1,6 +1,6 @@
 <u>[English](README.md)</u> | [Español](docs/es/README.md)
 | [Português](docs/pt/README.md) | [Bahasa Indonesia](docs/in/README.md)
-| [Русский](docs/ru/README.md) | [中文 (简体)](docs/zh-rCN/README.md)
+| [Русский](docs/ru/README.md) | [中文 (简体)](docs/zh-rCN/README.md) | [中文 (繁體)](docs/zh-rTW/README.md)
 | [日本語](docs/ja-rJP/README.md) | [Tiếng Việt](docs/vi/README.md)
 | [Türkçe](docs/tr/README.md)
 | [हिन्दी](docs/hi/README.md) | [বাংলা (ভারত)](docs/bn-rIN/README.md) | [ਪੰਜਾਬੀ (ਭਾਰਤ)](docs/pa-rIN/README.md) | [తెలుగు](docs/te-rIN/README.md) | [اردو (پاکستان)](docs/ur-rPK/README.md) | [العربية](docs/ar/README.md) | [ไทย](docs/th/README.md)
@@ -99,7 +99,7 @@ ADB Procedures using a PC:
 
   <details>
 
-* Your phone will prompt _Allow USB debugging_ if it's the first time being connected on USB
+* Your phone will prompt _Allow USB debugging?_ if it's the first time being connected on USB
   debugging mode. Tap _Allow_ or _OK_.
 * You may check _Always allow from this computer_ (Please check note at the end
   of this tutorial about keeping the USB debugging enabled).
