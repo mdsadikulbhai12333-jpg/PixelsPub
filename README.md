@@ -3,7 +3,7 @@
 | [Русский](docs/ru/README.md) | [中文 (简体)](docs/zh-rCN/README.md)
 | [日本語](docs/ja-rJP/README.md) | [Tiếng Việt](docs/vi/README.md)
 | [Türkçe](docs/tr/README.md)
-| [हिन्दी](docs/hi/README.md) | [বাংলা (ভারত)](docs/bn-rIN/README.md) | [العربية](docs/ar/README.md) | [ไทย](docs/th/README.md)
+| [हिन्दी](docs/hi/README.md) | [বাংলা (ভারত)](docs/bn-rIN/README.md) | [اردو (پاکستان)](docs/ur-rPK/README.md) | [العربية](docs/ar/README.md) | [ไทย](docs/th/README.md)
 
 # Pixels - Smart Resolution and DPI Changer
 
@@ -31,8 +31,7 @@ ADB Procedures using a PC:
 <details>
 
 * Go to _Settings_ > _About phone_ > _Software information_ and tap _Build number_ successively
-  seven(7) times
-  to enable developer options.
+  seven(7) times to enable developer options.
 
   <img src="docs/en/res/about_phone.jpg" width=320 height=500 alt="about phone">
 

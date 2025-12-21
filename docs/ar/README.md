@@ -3,7 +3,7 @@
 | [Русский](../ru/README.md) | [中文 (简体)](../zh-rCN/README.md)
 | [日本語](../ja-rJP/README.md) | [Tiếng Việt](../vi/README.md)
 | [Türkçe](../tr/README.md)
-| [हिन्दी](../hi/README.md) | [বাংলা (ভারত)](../bn-rIN/README.md) | <u>[العربية](README.md)</u> | [ไทย](../th/README.md)
+| [हिन्दी](../hi/README.md) | [বাংলা (ভারত)](../bn-rIN/README.md) | [اردو (پاکستان)](../ur-rPK/README.md) | <u>[العربية](README.md)</u> | [ไทย](../th/README.md)
 
 # Pixels: Resolution+DPI Changer
 
