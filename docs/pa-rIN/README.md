@@ -3,7 +3,7 @@
 | [Русский](../ru/README.md) | [中文 (简体)](../zh-rCN/README.md)
 | [日本語](../ja-rJP/README.md) | [Tiếng Việt](../vi/README.md)
 | [Türkçe](../tr/README.md)
-| [हिन्दी](../hi/README.md) | [বাংলা (ভারত)](../bn-rIN/README.md) | <u>[ਪੰਜਾਬੀ (ਭਾਰਤ)](README.md)</u> | [اردو (پاکستان)](../ur-rPK/README.md) | [العربية](../ar/README.md) | [ไทย](../th/README.md)
+| [हिन्दी](../hi/README.md) | [বাংলা (ভারত)](../bn-rIN/README.md) | <u>[ਪੰਜਾਬੀ (ਭਾਰਤ)](README.md)</u> | [తెలుగు](../te-rIN/README.md) | [اردو (پاکستان)](../ur-rPK/README.md) | [العربية](../ar/README.md) | [ไทย](../th/README.md)
 
 # Pixels - ਸਮਾਰਟ ਰੈਜ਼ੋਲਿਊਸ਼ਨ ਅਤੇ DPI ਚੇਂਜਰ
 

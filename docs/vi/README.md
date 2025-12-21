@@ -3,7 +3,7 @@
 | [Русский](../ru/README.md) | [中文 (简体)](../zh-rCN/README.md)
 | [日本語](../ja-rJP/README.md) | <u>[Tiếng Việt](README.md)</u>
 | [Türkçe](../tr/README.md)
-| [हिन्दी](../hi/README.md) | [বাংলা (ভারত)](../bn-rIN/README.md) | [ਪੰਜਾਬੀ (ਭਾਰਤ)](../pa-rIN/README.md) | [اردو (پاکستان)](../ur-rPK/README.md) | [العربية](../ar/README.md) | [ไทย](../th/README.md)
+| [हिन्दी](../hi/README.md) | [বাংলা (ভারত)](../bn-rIN/README.md) | [ਪੰਜਾਬੀ (ਭਾਰਤ)](../pa-rIN/README.md) | [తెలుగు](../te-rIN/README.md) | [اردو (پاکستان)](../ur-rPK/README.md) | [العربية](../ar/README.md) | [ไทย](../th/README.md)
 
 # Pixels - Trình thay đổi độ phân giải và DPI thông minh
 
