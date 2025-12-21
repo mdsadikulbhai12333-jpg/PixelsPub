@@ -3,7 +3,7 @@
 | [Русский](docs/ru/README.md) | [中文 (简体)](docs/zh-rCN/README.md)
 | [日本語](docs/ja-rJP/README.md) | [Tiếng Việt](docs/vi/README.md)
 | [Türkçe](docs/tr/README.md)
-| [हिन्दी](docs/hi/README.md) | [العربية](docs/ar/README.md) | [ไทย](docs/th/README.md)
+| [हिन्दी](docs/hi/README.md) | [বাংলা (ভারত)](docs/bn-rIN/README.md) | [العربية](docs/ar/README.md) | [ไทย](docs/th/README.md)
 
 # Pixels - Smart Resolution and DPI Changer
 
